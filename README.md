@@ -1,2 +1,5 @@
 # u1d4lp
-u1d4lp's info
+
+👋 Hi!
+
+⚖️ I'm a São Paulo based lawyer studying natural language processing and blockchain apllications to (mostly environmental) law.
