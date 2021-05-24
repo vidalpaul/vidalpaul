@@ -1,11 +1,5 @@
 ### u1d4lp | Paulo Vidal
 
-<p>👋 Hi!</p>
+###
 
-<p>⚖️</p>
-<p>I'm a São Paulo based lawyer studying natural language processing and blockchain apllications to law practice.</p>
-
-<p>🎓</p>
-<p>Bachelor of Laws - University of São Paulo (2012-2017)</p>
-<p>Licence en Droit - Université Lumière Lyon II (2014-2017)</p>
-<p>Master 2 en Droit économieque franco-brésilien - PITES Lyon (2020-)</p>
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?u1d4lp" frameborder="0"></iframe>
