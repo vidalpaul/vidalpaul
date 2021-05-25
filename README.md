@@ -1,6 +1,7 @@
 ### u1d4lp | Paulo Vidal
 
-###
+### Preferred technologies
+![React](https://raw.githubusercontent.com/u1d4lp/imgs/3b94445b10298229b26385fea55590c323fa7dc6/reactjs-icon.svg?token=AN7MEJDA2T3YKPFJD73JTW3AVV6I2)
 
 
 ## :trophy: My Github Stats:
