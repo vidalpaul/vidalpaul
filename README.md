@@ -5,7 +5,7 @@
 ![MongoDB](https://github.com/u1d4lp/imgs/blob/main/mongodb-icon.png?raw=true)
 ![Express.js](https://github.com/u1d4lp/imgs/blob/main/expressjs-icon.png?raw=true)
 ![React](https://github.com/u1d4lp/imgs/blob/main/reactjs-icon.png?raw=true)
-![Redux](https://github.com/u1d4lp/imgs/blob/1d63c61411126a8396bc18517578f7dc161bdc96/redux.png?raw=true)
+![Redux](https://github.com/u1d4lp/imgs/blob/main/redux64.png?raw=true)
 ![Node](https://github.com/u1d4lp/imgs/blob/main/nodejs-icon.png?raw=true)
 ![Jest.js](https://github.com/u1d4lp/imgs/blob/main/jestjsio-icon.png?raw=true)
 ![RxJS](https://github.com/u1d4lp/imgs/blob/1d63c61411126a8396bc18517578f7dc161bdc96/rxjs.png?raw=true)
