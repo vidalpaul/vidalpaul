@@ -2,6 +2,7 @@
 
 ### Preferred technologies
 ![TypeScript](https://raw.githubusercontent.com/u1d4lp/imgs/3b94445b10298229b26385fea55590c323fa7dc6/typescriptlang-icon.svg?token=AN7MEJGHHRM3JKT4EGLFTPDAVV6TK)
+<img src="https://raw.githubusercontent.com/u1d4lp/imgs/3b94445b10298229b26385fea55590c323fa7dc6/typescriptlang-icon.svg?token=AN7MEJGHHRM3JKT4EGLFTPDAVV6TK"
 ![MongoDB](https://raw.githubusercontent.com/u1d4lp/imgs/3b94445b10298229b26385fea55590c323fa7dc6/mongodb-icon.svg?token=AN7MEJEU2TREEUK3WBY3DH3AVV6LK)
 ![Express.js](https://raw.githubusercontent.com/u1d4lp/imgs/3b94445b10298229b26385fea55590c323fa7dc6/expressjs-icon.svg?token=AN7MEJDNT3PJHN47PSSJPCTAVV6N6)
 ![React](https://raw.githubusercontent.com/u1d4lp/imgs/3b94445b10298229b26385fea55590c323fa7dc6/reactjs-icon.svg?token=AN7MEJDA2T3YKPFJD73JTW3AVV6I2)
