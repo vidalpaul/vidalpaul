@@ -26,7 +26,7 @@
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=u1d4lp&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=u1d4lp&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=u1d4lp&hide=html&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=u1d4lp&hide=html&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=u1d4lp&hide=html&hide=css&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=u1d4lp&hide=html&hide=css&theme=tokyonight" />
 </a>
 </div>
