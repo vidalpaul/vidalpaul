@@ -11,7 +11,6 @@
 ![RxJS](https://github.com/u1d4lp/imgs/blob/main/rxjs64.png?raw=true)
 ![Nest.js](https://github.com/u1d4lp/imgs/blob/main/nestjs-icon.png?raw=true)
 ![Next.js](https://github.com/u1d4lp/imgs/blob/main/next64.png?raw=true)
-![Gatsby](https://github.com/u1d4lp/imgs/blob/main/gatsbyjs-icon.png?raw=true)
 ![GraphQL](https://github.com/u1d4lp/imgs/blob/main/graphql-icon.png?raw=true)
 ![Docker](https://github.com/u1d4lp/imgs/blob/main/docker-icon.png?raw=true)
 
