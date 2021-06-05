@@ -29,3 +29,9 @@
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=u1d4lp&hide=html,css&theme=tokyonight&langs_count=10" />
 </a>
 </div>
+
+## Latest articles
+
+## Latest education
+
+## Currently working on
