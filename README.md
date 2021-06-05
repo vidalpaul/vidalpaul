@@ -5,11 +5,11 @@
 - :man_technologist: I'm open to work. Contact me [@paulovidal.com](mailto:paulo@paulo.vidal.com)
 - :tongue: I speak Portuguese (L1), English, and French (C2). I'm also learning Spanish and German.
 - :black_nib: Check out my [latest articles](https://medium.com/@vidalpaulo)
--  You should also definetly check [my website](https:www.paulovidal.com)
+-  You should also definetely check [my website](https:www.paulovidal.com)
 - :two: truths and a lie:
   * I have two degrees in Law :balance_scale:
   * I never learned how to ride a bike
-  * I was a full blown emo kid
+  * I was a full blown goth kid
 
 ### Preferred technologies
 ![TypeScript](https://github.com/u1d4lp/imgs/blob/main/typescriptlang-icon.png?raw=true)
