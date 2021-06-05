@@ -1,5 +1,16 @@
 ### u1d4lp | Paulo Vidal
 
+- Hello! I'm Paulo Vidal `[ˈpaʊ̯.lʊ viˈdaʊ̯]`. I'm a fullstack web developer currently based in São Paulo - Brazil.
+- :man_student: I'm a cuttrently postgraduate student in the Fullstack Web Development Specialization @ PUC.
+- :man_technologist: I'm open to work. Contact me [@paulovidal.com](mailto:paulo@paulo.vidal.com)
+- :tongue: I speak Portuguese (L1), English, and French (C2). I'm also learning German.
+- :black_nib: Check out my [latest articles](https://medium.com/@vidalpaulo)
+-  You should also definetly check [my website](https:www.paulovidal.com)
+- :two: truths and a lie:
+  * I have two degrees in Law :balance_scale:
+  * I never learned how to ride a bike
+  * I was a full blown emo kid
+
 ### Preferred technologies
 ![TypeScript](https://github.com/u1d4lp/imgs/blob/main/typescriptlang-icon.png?raw=true)
 ![MongoDB](https://github.com/u1d4lp/imgs/blob/main/mongodb-icon.png?raw=true)
@@ -11,6 +22,7 @@
 ![RxJS](https://github.com/u1d4lp/imgs/blob/main/rxjs64.png?raw=true)
 ![Nest.js](https://github.com/u1d4lp/imgs/blob/main/nestjs-icon.png?raw=true)
 ![Next.js](https://github.com/u1d4lp/imgs/blob/main/next64.png?raw=true)
+![Ethereum](https://github.com/u1d4lp/imgs/blob/main/ethereum-icon.png?raw=true)
 ![GraphQL](https://github.com/u1d4lp/imgs/blob/main/graphql-icon.png?raw=true)
 ![Docker](https://github.com/u1d4lp/imgs/blob/main/docker-icon.png?raw=true)
 
@@ -30,8 +42,4 @@
 </a>
 </div>
 
-## Latest articles
-
-## Latest education
-
-## Currently working on
+ 
