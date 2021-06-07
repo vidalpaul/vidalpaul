@@ -5,7 +5,7 @@
 - :man_technologist: I'm open to work and willing to relocate. Contact me [@paulovidal.com](mailto:paulo@paulo.vidal.com)
 - :tongue: I speak Portuguese (L1), English, and French (C2). I'm also learning Spanish and German.
 - :black_nib: Check out my [latest articles](https://medium.com/@vidalpaulo)
-- :globe_with_meridians: You should also definetely check [my website](https:www.paulovidal.com)
+- :globe_with_meridians: You should also definitely check [my website](https:www.paulovidal.com)
 - :two: truths and a lie:
   * I have two degrees in Law :balance_scale:
   * I never learned how to ride a bike
