@@ -27,7 +27,7 @@
 ![Docker](https://github.com/u1d4lp/imgs/blob/main/docker-icon.png?raw=true)
 
 
-## :trophy: My Github Stats:
+### :trophy: My Github Stats:
 
 <!--
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=u1d4lp&count_private=true&show_icons=true&theme=tokyonight)
