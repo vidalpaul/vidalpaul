@@ -1,6 +1,6 @@
 ### u1d4lp | Paulo Vidal
 
-- Hello! I'm Paulo Vidal `[ˈpaʊ̯.lʊ viˈdaʊ̯]`. I'm a fullstack web developer currently based in São Paulo - Brazil.
+- Hello! I'm Paulo Vidal `[ˈpaʊ̯.lʊ viˈdaʊ̯]`. I'm a fullstack web developer.
 - :man_student: I'm currently a postgraduate student in the Fullstack Web Development Specialization @ PUC.
 - :man_technologist: I'm open to work and willing to relocate (EU). Contact me [@paulovidal.com](mailto:paulo@paulo.vidal.com)
 - :tongue: I speak Portuguese (L1), English, and French (C2). I'm also learning Spanish and German.
