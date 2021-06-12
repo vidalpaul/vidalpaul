@@ -9,7 +9,7 @@
 - :two: truths and a lie:
   * I have two degrees in Law :balance_scale:
   * I never learned how to ride a bike
-  * I was a full blown goth kid
+  * I was a full blown goth kid who turned into a Simpsonwaver
 
 ### Preferred technologies
 ![TypeScript](https://github.com/u1d4lp/imgs/blob/main/typescriptlang-icon.png?raw=true)
