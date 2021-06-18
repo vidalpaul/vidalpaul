@@ -20,7 +20,6 @@
 ![Node](https://github.com/u1d4lp/imgs/blob/main/nodejs-icon.png?raw=true)
 ![Jest.js](https://github.com/u1d4lp/imgs/blob/main/jestjsio-icon.png?raw=true)
 ![RxJS](https://github.com/u1d4lp/imgs/blob/main/rxjs64.png?raw=true)
-![Nest.js](https://github.com/u1d4lp/imgs/blob/main/nestjs-icon.png?raw=true)
 ![Next.js](https://github.com/u1d4lp/imgs/blob/main/next64.png?raw=true)
 ![Ethereum](https://github.com/u1d4lp/imgs/blob/main/ethereum-icon.png?raw=true)
 ![GraphQL](https://github.com/u1d4lp/imgs/blob/main/graphql-icon.png?raw=true)
