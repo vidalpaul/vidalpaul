@@ -32,11 +32,11 @@
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=u1d4lp&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=u1d4lp&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=u1d4lp&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=vidalpaul&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=vidalpaul&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="!(https://github-readme-stats.vercel.app/api/top-langs/?username=u1d4lp&hide=css,html,hack,shell&langs_count=10&theme=tokyonight)">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u1d4lp&hide=css,html,hack,shell&langs_count=10&theme=tokyonight" />
+<a href="!(https://github-readme-stats.vercel.app/api/top-langs/?username=vidalpaul&hide=css,html,hack,shell&langs_count=10&theme=tokyonight)">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalpaul&hide=css,html,hack,shell&langs_count=10&theme=tokyonight" />
 </a>
 </div>
 
