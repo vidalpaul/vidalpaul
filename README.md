@@ -1,4 +1,4 @@
-### u1d4lp | Paulo Vidal
+### vidalpaul | Paulo Vidal
 
 - Hello! I'm Paulo Vidal `[ˈpaʊ̯.lʊ viˈdaʊ̯]`. I'm a fullstack web developer.
 - :man_student: I'm currently a postgraduate student in the Fullstack Web Development Specialization @ PUC.
