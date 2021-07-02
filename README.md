@@ -6,10 +6,7 @@
 - :tongue: I speak Portuguese (L1), English, and French (C2). I'm also learning German.
 - :black_nib: Check out my [latest articles](https://medium.com/@vidalpaul)
 - :globe_with_meridians: You should also definitely check [my website](http://www.paulovidal.com), [my :whale: DockerHub](https://hub.docker.com/u/vidalpaul), [my **npm** packages](https://www.npmjs.com/~vidalpaul), [my PyPI packages](https://pypi.org/user/vidalpaul/), and [my volunteer **tx** work](https://www.transifex.com/user/profile/vidalpaul)
-- :two: truths and a lie:
-  * I have two degrees in Law :balance_scale:
-  * I never learned how to ride a bike
-  * I was a full blown goth kid who turned into a Simpsonwaver
+
 
 ### Preferred technologies
 ![TypeScript](https://github.com/u1d4lp/imgs/blob/main/typescriptlang-icon.png?raw=true)
