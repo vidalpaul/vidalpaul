@@ -18,7 +18,6 @@
 ![Redux](https://github.com/u1d4lp/imgs/blob/main/redux64.png?raw=true)
 ![Jest.js](https://github.com/u1d4lp/imgs/blob/main/jestjsio-icon.png?raw=true)
 ![Next.js](https://github.com/u1d4lp/imgs/blob/main/next64.png?raw=true)
-![Linux](https://raw.githubusercontent.com/vidalpaul/imgs/b17c6a4f1e4131049fba2672cea0f86ef76e3695/linux-icon.svg?token=AN7MEJHB2D4SMPDSD4YIEADBKXCJM)
 
 
 ### :trophy: My Github Stats:
