@@ -15,9 +15,9 @@
 ![MongoDB](https://github.com/u1d4lp/imgs/blob/main/mongodb-icon.png?raw=true)
 ![Express.js](https://github.com/u1d4lp/imgs/blob/main/expressjs-icon.png?raw=true)
 ![React](https://github.com/u1d4lp/imgs/blob/main/reactjs-icon.png?raw=true)
-![Redux](https://github.com/u1d4lp/imgs/blob/main/redux64.png?raw=true)
-![Jest.js](https://github.com/u1d4lp/imgs/blob/main/jestjsio-icon.png?raw=true)
 ![Next.js](https://github.com/u1d4lp/imgs/blob/main/next64.png?raw=true)
+![Ethereum](https://github.com/vidalpaul/imgs/blob/main/ethereum-icon.svg)
+![Python](https://github.com/vidalpaul/imgs/blob/main/python-icon.svg)
 
 
 ### :trophy: My Github Stats:
