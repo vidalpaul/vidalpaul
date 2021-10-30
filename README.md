@@ -30,8 +30,8 @@
 -->
 <div>
 
-<a href="!(https://github-readme-stats.vercel.app/api/top-langs/?username=vidalpaul&hide=css,html,hack,shell,svelte,powershell,batchfile,java,kotlin,javascript,php,scss,nix&langs_count=10&theme=tokyonight)">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalpaul&hide=css,html,hack,shell,svelte,powershell,batchfile,java,kotlin,javascript,php,scss,nix&langs_count=10&theme=tokyonight" />
+<a href="!(https://github-readme-stats.vercel.app/api/top-langs/?username=vidalpaul&hide=css,html,hack,shell,svelte,powershell,batchfile,java,kotlin,javascript,php,scss,nix,makefile&langs_count=10&theme=tokyonight)">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalpaul&hide=css,html,hack,shell,svelte,powershell,batchfile,java,kotlin,javascript,php,scss,nix,makefile&langs_count=10&theme=tokyonight" />
 </a>
 </div>
 
