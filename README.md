@@ -9,15 +9,14 @@
 - :speech_balloon: We can chat on [Gitter](https://gitter.im/vidalpaul) or [Discord](https://discordapp.com/users/u1d4lp#6308)
 
 
-### Preferred technologies
-![TypeScript](https://github.com/u1d4lp/imgs/blob/main/typescriptlang-icon.png?raw=true)
-![Node](https://github.com/u1d4lp/imgs/blob/main/nodejs-icon.png?raw=true)
-![MongoDB](https://github.com/u1d4lp/imgs/blob/main/mongodb-icon.png?raw=true)
-![Express.js](https://github.com/u1d4lp/imgs/blob/main/expressjs-icon.png?raw=true)
-![React](https://github.com/u1d4lp/imgs/blob/main/reactjs-icon.png?raw=true)
-![Next.js](https://github.com/u1d4lp/imgs/blob/main/next64.png?raw=true)
-![Ethereum](https://github.com/vidalpaul/imgs/blob/main/ethereum-icon.svg)
-![Python](https://github.com/vidalpaul/imgs/blob/main/python-icon.svg)
+### Preferred tech
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ### :trophy: My Github Stats:
