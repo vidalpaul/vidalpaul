@@ -1,6 +1,6 @@
-### vidalpaul | Paulo Vidal
+### vidalpaul | Paul Vidal
 
-- Hello! I'm Paulo Vidal `[ˈpaʊ̯.lʊ viˈdaʊ̯]`. I'm a blockchain developer.
+- Hello! I'm Paul Vidal. I'm a blockchain developer.
 - :man_student: I'm currently a postgraduate student in the Fullstack Web Development Specialization @ PUC.
 - :man_technologist: I'm open to work and willing to relocate (EU). Contact me [@paulovidal.com](mailto:paulo@paulo.vidal.com) or [LinkedIn](https://www.linkedin.com/in/vidalpaulo/)
 - :tongue: I speak Portuguese (L1), English, and French (C2). I'm also learning German.
