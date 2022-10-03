@@ -2,7 +2,7 @@
 
 - Hello! I'm Paul Vidal. I'm a blockchain developer.
 - :man_student: I'm currently a postgraduate student in the Fullstack Web Development Specialization @ PUC.
-- :man_technologist: I'm open to work and willing to relocate (EU). Contact me [@LinkedIn](https://www.linkedin.com/in/vidalpaulo/)
+- :man_technologist: I'm open to new projects and willing to relocate (EU). Contact me [@LinkedIn](https://www.linkedin.com/in/vidalpaulo/)
 - :tongue: I speak Portuguese (L1), English, and French (C2). I'm also learning German.
 - :black_nib: Check out my [latest articles](https://medium.com/@vidalpaul)
 - :globe_with_meridians: You should also definitely check my [leetcode](https://leetcode.com/vidalpaul/), [HackerRank](https://www.hackerrank.com/vidalpaul), [CodersRank](https://profile.codersrank.io/user/vidalpaul/), [:whale: DockerHub](https://hub.docker.com/u/vidalpaul), [**npm** packages](https://www.npmjs.com/~vidalpaul), [PyPI packages](https://pypi.org/user/vidalpaul/), [Repls](https://replit.com/@vidalpaul), [CodePen](https://codepen.io/vidalpaul), [Stack **Overflow** profile](https://stackoverflow.com/users/12496081/paulo-vidal), [dev.to profile](https://dev.to/vidalpaul), and [my volunteer **tx** work](https://www.transifex.com/user/profile/vidalpaul)
