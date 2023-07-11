@@ -1,6 +1,6 @@
 ### vidalpaul | Paulo Vidal
 
-- Hello! I'm Paulo Vidal. I'm a blockchain developer.
+- Hello! I'm Paulo Vidal. I'm a Blockchain Developer.
 - :man_technologist: I'm open to new projects and willing to relocate (EU). Contact me [@LinkedIn](https://www.linkedin.com/in/vidalpaulr/)
 - :tongue: I speak Portuguese (L1), English, and French (C2). I'm also learning Spanish.
 - :speech_balloon: We can chat on [Discord](https://discordapp.com/users/u1d4lp#6308)
