@@ -3,12 +3,14 @@
 - Hello! I'm Paulo Vidal. I'm a Blockchain Developer, working mostly with Blockchain Integration, Blockchain Infrastructure, and Smart Contracts development and auditing.
 - :man_technologist: I'm open to new projects and willing to relocate (to EU). Connect with me at [LinkedIn](https://www.linkedin.com/in/vidalpaulo/)
 - :tongue: I speak Portuguese (L1), English, and French (C2). I'm also learning Spanish.
-- :speech_balloon: We can chat on [Discord](https://discordapp.com/users/u1d4lp#6308)
+- :speech_balloon: We can chat on [Discord](https://discordapp.com/users/vidalpaul)
 
 
 ### Preferred tech
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
