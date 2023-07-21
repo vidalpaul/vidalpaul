@@ -25,13 +25,12 @@
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=vidalpaul&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=vidalpaul&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-
+-->
 <div>
-
 <a href="!(https://github-readme-stats.vercel.app/api/top-langs/?username=vidalpaul&hide=css,html,hack,shell,svelte,powershell,batchfile,java,kotlin,julia,javascript,dart,php,scss,nix,makefile,docker, dockerfile&langs_count=20&theme=tokyonight)">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalpaul&hide=css,html,hack,shell,svelte,powershell,batchfile,java,kotlin,julia,javascript,dart,php,scss,nix,makefile,docker,dockerfile&langs_count=20&theme=tokyonight" />
 </a>
 </div>
--->
+
 
  
