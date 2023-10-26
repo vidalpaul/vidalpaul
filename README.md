@@ -2,9 +2,7 @@
 
 - Hello! I'm Paulo Vidal. I'm a Blockchain Developer, working mostly with Blockchain Integration, Blockchain Infrastructure, and Smart Contracts development and auditing.
 - :man_technologist: I'm open to new projects and willing to relocate (to EU). Connect with me at [LinkedIn](https://www.linkedin.com/in/vidalpaulo/)
-- :tongue: I speak Portuguese (L1), English, and French (C2). I'm also learning Spanish.
-- :speech_balloon: We can chat on [Discord](https://discordapp.com/users/vidalpaul)
-
+- :tongue: I speak Portuguese (L1), English, and French (C2), and Spanish.
 
 ### Preferred tech
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
