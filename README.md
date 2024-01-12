@@ -1,6 +1,6 @@
 ### vidalpaul | Paulo Vidal
 
-- Hello! I'm Paulo Vidal. I'm a Blockchain Developer, working mostly with Blockchain Integration, Blockchain Infrastructure, and Smart Contracts development and auditing.
+- Hello! I'm Paulo Vidal. I'm a Blockchain Architect, working mostly with Blockchain Integration, Blockchain Infrastructure, Smart Contracts development and auditing, and Blockchain Solutions Architecture.
 - :man_technologist: I'm open to new projects and willing to relocate (to EU). Connect with me at [LinkedIn](https://www.linkedin.com/in/vidalpaulo/)
 - :tongue: I speak Portuguese (L1), English, and French (C2), and Spanish.
 
