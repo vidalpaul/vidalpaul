@@ -1,8 +1,8 @@
 ### vidalpaul | Paulo Vidal
 
-- Hello! I'm Paulo Vidal. I work mostly with DLTs/Blockchain.
-- :man_technologist: I'm open to discussing new projects. Connect with me at [LinkedIn](https://www.linkedin.com/in/vidalpaulo/)
-- :tongue: I speak Portuguese (L1), English, French (C2), and Spanish.
+- I work mostly with DLTs/Blockchain.
+- I'm open to discussing new projects. Connect with me at [LinkedIn](https://www.linkedin.com/in/vidalpaulo/)
+- I speak Portuguese (L1), English, French (C2), and Spanish.
 
 ### Preferred tech
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
