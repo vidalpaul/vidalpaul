@@ -1,5 +1,3 @@
-### vidalpaul | Paulo Vidal
-
 - I work mostly with DLTs/Blockchain.
 - I'm open to discussing new projects. Connect with me at [LinkedIn](https://www.linkedin.com/in/vidalpaulo/)
 - I speak Portuguese (L1), English, French (C2), and Spanish.
