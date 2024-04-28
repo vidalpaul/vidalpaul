@@ -1,8 +1,11 @@
 - I work mostly with DLTs/Blockchain.
 - I'm open to discussing new projects. Connect with me at [LinkedIn](https://www.linkedin.com/in/vidalpaulo/)
 - I speak Portuguese (L1), English, French (C2), and Spanish.
+  
+<details>
+<summary><b>Tech Stack</summary></b></summary>
 
-### Preferred tech
+  
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
@@ -27,6 +30,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidalpaul&hide=css,html,hack,shell,svelte,powershell,batchfile,java,kotlin,julia,javascript,dart,php,scss,nix,makefile,docker,dockerfile&langs_count=20&theme=tokyonight" />
 </a>
 </div>
+</details>
 
 
  
