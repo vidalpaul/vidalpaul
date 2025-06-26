@@ -1,5 +1,6 @@
-- I work mostly with DLTs/Blockchain.
-- I'm open to discussing new projects. Connect with me at [LinkedIn](https://www.linkedin.com/in/vidalpaulo/)
-- Talk to me in either English, French, or Spanish.
+- I build with DLTs/Blockchain
+- Open to new projects
+- [LinkedIn](https://www.linkedin.com/in/vidalpaul)
+- EN / FR / ES
 
  
